@@ -1,3 +1,5 @@
+![vgsales_cover](https://github.com/user-attachments/assets/59d6eb70-24d2-4707-b4ca-41898602d8cd)
+
 # Video Game Sales Analysis
 
 ## Overview
