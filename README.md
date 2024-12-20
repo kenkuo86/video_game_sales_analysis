@@ -6,7 +6,8 @@
 This project explores key factors influencing video game sales by analyzing historical data. The insights aim to guide strategic decision-making for stakeholders in the gaming industry.
 
 ## Objectives
-Demonstrate the overall market trend in video games and discover important information
+- Analyze overall market trends in video games.
+- Discover key factors that influence video game sales and provide actionable insights.
 
 ## Dataset
 - **Source**: Kaggle - [Video Game Sales 2024](https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024)
